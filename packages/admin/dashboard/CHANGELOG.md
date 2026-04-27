@@ -1,5 +1,19 @@
 # @medusajs/dashboard
 
+## 2.14.2
+
+### Patch Changes
+
+- [#15208](https://github.com/medusajs/medusa/pull/15208) [`ab8416d2de6eb043013d7cfbe78bb31449baf3cd`](https://github.com/medusajs/medusa/commit/ab8416d2de6eb043013d7cfbe78bb31449baf3cd) Thanks [@mvanhorn](https://github.com/mvanhorn)! - fix(dashboard): price-list create page no longer crashes — `PricingDetailsSchema` now picks the existing `rules` field from `PricingCreateSchema` instead of the unrecognized `customer_group_ids` key
+
+- [#15201](https://github.com/medusajs/medusa/pull/15201) [`8d8a1e709a5e889dd2d2b0a895decdedbfc81595`](https://github.com/medusajs/medusa/commit/8d8a1e709a5e889dd2d2b0a895decdedbfc81595) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): compute selected value for eq operator in promo rule value form
+
+- Updated dependencies []:
+  - @medusajs/admin-shared@2.14.2
+  - @medusajs/js-sdk@2.14.2
+  - @medusajs/icons@2.14.2
+  - @medusajs/ui@4.1.9
+
 ## 2.14.1
 
 ### Patch Changes
