@@ -1,5 +1,19 @@
 # @medusajs/loyalty-plugin
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15691](https://github.com/medusajs/medusa/pull/15691) [`5c20d034de9a0b32189963f20dd3d8e426f0e67b`](https://github.com/medusajs/medusa/commit/5c20d034de9a0b32189963f20dd3d8e426f0e67b) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(draft-order, dashboard, loyalty-plugin): align react-router-dom version
+
+- Updated dependencies [[`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627), [`699a9a85c795e13f9e787056e0fb65cfea0115dc`](https://github.com/medusajs/medusa/commit/699a9a85c795e13f9e787056e0fb65cfea0115dc), [`20352f4fa2f31e5b491c8b1b244c407392939fbf`](https://github.com/medusajs/medusa/commit/20352f4fa2f31e5b491c8b1b244c407392939fbf), [`90af038c95c835dee5168ffd19cda5182d81b904`](https://github.com/medusajs/medusa/commit/90af038c95c835dee5168ffd19cda5182d81b904)]:
+  - @medusajs/framework@2.16.0
+  - @medusajs/cli@2.16.0
+  - @medusajs/test-utils@2.16.0
+  - @medusajs/admin-sdk@2.16.0
+  - @medusajs/icons@2.16.0
+  - @medusajs/ui@4.1.16
+
 ## 2.15.5
 
 ### Patch Changes

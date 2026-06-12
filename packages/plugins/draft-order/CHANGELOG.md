@@ -1,5 +1,20 @@
 # @medusajs/draft-order
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15691](https://github.com/medusajs/medusa/pull/15691) [`5c20d034de9a0b32189963f20dd3d8e426f0e67b`](https://github.com/medusajs/medusa/commit/5c20d034de9a0b32189963f20dd3d8e426f0e67b) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(draft-order, dashboard, loyalty-plugin): align react-router-dom version
+
+- Updated dependencies [[`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627), [`699a9a85c795e13f9e787056e0fb65cfea0115dc`](https://github.com/medusajs/medusa/commit/699a9a85c795e13f9e787056e0fb65cfea0115dc), [`06b05343b4158e7bb96f8f0fbd7e6836a1818e44`](https://github.com/medusajs/medusa/commit/06b05343b4158e7bb96f8f0fbd7e6836a1818e44), [`d815e81a1a4977f66d6aebb5abc742ee8780619c`](undefined), [`1344c10503f34e392bd03f733820bcd5a12a2766`](https://github.com/medusajs/medusa/commit/1344c10503f34e392bd03f733820bcd5a12a2766), [`f10e3ab70d2328fcc7202e6539c899cdf1313946`](undefined), [`20352f4fa2f31e5b491c8b1b244c407392939fbf`](https://github.com/medusajs/medusa/commit/20352f4fa2f31e5b491c8b1b244c407392939fbf), [`90af038c95c835dee5168ffd19cda5182d81b904`](https://github.com/medusajs/medusa/commit/90af038c95c835dee5168ffd19cda5182d81b904), [`13c5dd22802593f5fb5c0a97076a966704aa56c9`](https://github.com/medusajs/medusa/commit/13c5dd22802593f5fb5c0a97076a966704aa56c9)]:
+  - @medusajs/framework@2.16.0
+  - @medusajs/cli@2.16.0
+  - @medusajs/js-sdk@2.16.0
+  - @medusajs/test-utils@2.16.0
+  - @medusajs/admin-sdk@2.16.0
+  - @medusajs/icons@2.16.0
+  - @medusajs/ui@4.1.16
+
 ## 2.15.5
 
 ### Patch Changes
